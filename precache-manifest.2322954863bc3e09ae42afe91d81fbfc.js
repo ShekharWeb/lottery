@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "262e355f15b7a1ba9e21",
+    "revision": "d957ac3d29ffc0377b0d",
     "url": "/lottery/static/css/main.66a849dc.chunk.css"
   },
   {
-    "revision": "262e355f15b7a1ba9e21",
-    "url": "/lottery/static/js/main.262e355f.chunk.js"
+    "revision": "d957ac3d29ffc0377b0d",
+    "url": "/lottery/static/js/main.d957ac3d.chunk.js"
   },
   {
     "revision": "05f792e58da8a6018aa5",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/lottery/static/media/banner2.b37d7741.jpg"
   },
   {
-    "revision": "eb1a588c691d6fefd3125b94f477886a",
+    "revision": "806bce6705c6d4f8538203f073845743",
     "url": "/lottery/index.html"
   }
 ];
