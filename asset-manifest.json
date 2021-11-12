@@ -1,17 +1,17 @@
 {
   "main.css": "/lottery/static/css/main.66a849dc.chunk.css",
-  "main.js": "/lottery/static/js/main.ffc79ee7.chunk.js",
-  "main.js.map": "/lottery/static/js/main.ffc79ee7.chunk.js.map",
+  "main.js": "/lottery/static/js/main.262e355f.chunk.js",
+  "main.js.map": "/lottery/static/js/main.262e355f.chunk.js.map",
   "static/css/1.4295a956.chunk.css": "/lottery/static/css/1.4295a956.chunk.css",
-  "static/js/1.24dde0e4.chunk.js": "/lottery/static/js/1.24dde0e4.chunk.js",
-  "static/js/1.24dde0e4.chunk.js.map": "/lottery/static/js/1.24dde0e4.chunk.js.map",
+  "static/js/1.05f792e5.chunk.js": "/lottery/static/js/1.05f792e5.chunk.js",
+  "static/js/1.05f792e5.chunk.js.map": "/lottery/static/js/1.05f792e5.chunk.js.map",
   "runtime~main.js": "/lottery/static/js/runtime~main.e7a34308.js",
   "runtime~main.js.map": "/lottery/static/js/runtime~main.e7a34308.js.map",
-  "static/media/bootstrap-icons.css": "/lottery/static/media/bootstrap-icons.e07b538a.woff2",
+  "static/media/bootstrap-icons.css": "/lottery/static/media/bootstrap-icons.7fb23f3b.woff",
   "static/media/CountDown.css": "/lottery/static/media/banner2.b37d7741.jpg",
   "static/css/main.66a849dc.chunk.css.map": "/lottery/static/css/main.66a849dc.chunk.css.map",
   "static/css/1.4295a956.chunk.css.map": "/lottery/static/css/1.4295a956.chunk.css.map",
   "index.html": "/lottery/index.html",
-  "precache-manifest.54ca01b7fa05a6780b900994022c6770.js": "/lottery/precache-manifest.54ca01b7fa05a6780b900994022c6770.js",
+  "precache-manifest.a6b2433c1f20f27488d35fdb5d673ae4.js": "/lottery/precache-manifest.a6b2433c1f20f27488d35fdb5d673ae4.js",
   "service-worker.js": "/lottery/service-worker.js"
 }
